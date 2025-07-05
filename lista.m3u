@@ -1,0 +1,17 @@
+#EXTM3U
+
+# + Canales latino por país (Chile, Argentina, Méx, Colombia...)
+https://www.m3u.cl/lista/CL.m3u
+https://www.m3u.cl/lista/AR.m3u
+https://www.m3u.cl/lista/MX.m3u
+https://www.m3u.cl/lista/CO.m3u
+
+# + Español e inglés dual
+https://iptv-org.github.io/iptv/languages/mul.m3u
+
+# + Películas y dibujos en audio latino
+https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
+https://mametchikitty.github.io/Listas-IPTV/dibujos-animados.m3u
+
+# + Playlist internacional con canales gratuitos oficiales
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
